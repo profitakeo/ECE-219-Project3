@@ -1,0 +1,22 @@
+# run using: pip install -r requirements.txt
+
+# Core packages
+pandas
+numpy
+
+# ML / LLM
+torch
+transformers
+accelerate
+
+# Structured output
+outlines
+pydantic
+
+# Utilities
+tqdm
+requests
+
+# Jupyter
+jupyter
+ipykernel
