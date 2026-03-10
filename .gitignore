@@ -1,3 +1,6 @@
 .venv/
 __pycache__/
 .ipynb_checkpoints/
+datasets/diamonds_standardized.csv
+datasets/diamonds_selected.csv
+datasets/diamonds_ece219.csv
